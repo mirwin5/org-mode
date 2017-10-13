@@ -1,0 +1,143 @@
+Mikes List
+
+* Home ToDos
+
+** Pick up poo
+
+** Clean the floors
+
+** Men's group breakfast
+
+** Apply flea and tick to Rose and Heartguard
+
+** Clean dog beds
+
+** Decide on flooring for the office
+
+** Remove the filing cabinets from upstairs
+
+* Work ToDos
+
+** Add to passwordstate - For the IVR the tomcat user name is Tomcat and the password is tomcat
+
+** Call John at Avoxi (678) 348-5085
+
+** Backup CMS
+
+* Update Agent setup app
+
+** Look at automating the agent tool
+
+* CMS upgrade 18.X
+
+** Quote Depends on WFM choice
+
+** Setup network backups
+
+* CM 7.X upgrade
+
+** Talk to SKC About the Gateway issues
+
+* IVR Lab Project
+* IVR Programming
+* WFM upgrade
+* Notes on courses
+
+** Re flash the phone that isn't working
+
+** Finish G-code course
+
+* Irwin CNC
+
+** Figure out the best way to mount all the controls
+
+** Study the zero plate needs and setup
+
+** Look at doing sound proofing for the basement shop
+
+** Look at various brackets needed for the CNC
+
+* Retirement Plan
+
+** Barber Financial
+
+** Wills trusts etc
+
+** Mistakes that we can avoid
+
+** Build on farm?
+
+** Student Loan payoff?
+
+* Questions on Retirement
+** Think About what to do after the first of the year for work hours
+
+** What Sort Of Legacy Would I Like To Leave?
+
+** How Would I Like To Make The World A Better Place In My Own Way?
+
+** What Would I Like To Do That I Have Always Wanted To Do, But Never Got Around To Doing?
+
+** What Special Talent Have I Neglected While Putting In Long Hard Hours In My Career?
+
+** What Field Of Endeavor Invariably Challenges Me In New And Exciting Ways?
+
+** What Makes Me The Most Creative?
+
+** What Talents Or Skills Am I Most Proud Of?
+
+** What Would Make Me A Much Happier Person?
+
+** What Made Me Happy In My Career That I Would Like To Continue Doing?
+
+** What Made Me Happy In My Childhood And Teens That I Would Like To Do Again?
+
+** What Is Extremely Important To Me?
+
+** What Makes Me Happy?
+* Farm ToDo List
+** Burn the wood piles at the farm
+* Farm Sale List
+** Notes on Items for planning the sale of the farm
+
+** Ask family if they are interested in buying the Farm
+
+** Sell farm on contract 20% down and 15-20 year Payoff
+
+** Get with the surveyor to see about splitting the north 40 acres off from the rest of the farm.
+
+** Find A Realtor for farm
+
+** Example of sale on contract
+   
+* Someday Items
+
+** Learn new ukulele strums
+
+** Learn how to use the trio foot pedal
+
+** Health items Dr. Kawase
+
+** Finish reading Three in One
+
+** Do maintenance on the shopsmith
+
+** Decide what to do with formal cassock
+
+** Finish work on the tricordia
+
+** Order new table for shopsmith
+
+** Sort books for give away
+
+** Repair grout behind kitchen backsplash
+
+** Paint body color of house by the garage door
+
+** Paint the interior of the house
+
+** Repaint trim
+
+** Research new carving projects
+
+** Plan basement remodel
